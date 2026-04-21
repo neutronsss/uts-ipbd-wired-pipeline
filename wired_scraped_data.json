@@ -1,405 +1,405 @@
 {
-    "session_id": "2026-04-21T13:02:57.620384",
+    "session_id": "2026-04-21T14:43:41.058192",
     "articles_count": 50,
     "articles": [
         {
             "title": "AI is Set to Revolutionize Corporate HR",
             "url": "https://www.wired.com/sponsored/story/ai-is-set-to-revolutionise-corporate-hr/",
             "description": "IBM’s new generation of AI tools is already modernizing HR, making companies far more productive.",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:00:13.151652",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:00.416776",
             "source": "Wired.com"
         },
         {
             "title": "Medicine’s AI Evolution",
             "url": "https://www.wired.com/sponsored/story/medicines-ai-evolution/",
             "description": "How Amgen Is Using AI to Rewrite the Rules of Drug Discovery",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:00:16.467649",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:05.184338",
             "source": "Wired.com"
         },
         {
             "title": "AI Will Never Be Conscious",
             "url": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
             "description": "In his new book, “A World Appears,” Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.",
-            "author": "By MICHAEL POLLAN",
-            "scraped_at": "2026-04-21T13:00:20.269389",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:08.965565",
             "source": "Wired.com"
         },
         {
             "title": "Power, Policy, and AI Governance: Taking Agency Over Our AI Future",
             "url": "https://www.wired.com/sponsored/story/omidyar-the-big-interview/",
             "description": "At WIRED’s Big Interview event, Omidyar Network president, Michele Jawando described how we can all be part of an AI revolution that puts the power back in the hands of people, and why our social identities—not just our data—are at stake.",
-            "author": "By BY DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:00:23.872471",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:12.480594",
             "source": "Wired.com"
         },
         {
             "title": "The AI Gap is Widening",
             "url": "https://www.wired.com/sponsored/story/the-ai-gap-is-widening/",
             "description": "A new report shows businesses that adopted AI early are seeing double the revenue growth. And it’s not too late to catch up.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:00:26.844041",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:15.460035",
             "source": "Wired.com"
         },
         {
             "title": "The Rise of Rogue AI",
             "url": "https://www.wired.com/sponsored/story/the-rise-of-rogue-ai/",
             "description": "Workers are under pressure to adopt AI tools, even when those tools haven’t been vetted.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:00:32.685788",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:22.977431",
             "source": "Wired.com"
         },
         {
             "title": "Banking Gets More Personal With AI",
             "url": "https://www.wired.com/sponsored/story/banking-gets-more-personal-with-ai/",
             "description": "IBM is helping to facilitate a quiet revolution in banking where, thanks to AI, customers can once more enjoy a personal relationship with their provider.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:00:36.322881",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:25.862677",
             "source": "Wired.com"
         },
         {
             "title": "Why AI is now HR’s business",
             "url": "https://www.wired.com/sponsored/story/employment-hero-why-ai-is-now-hrs-business/",
             "description": "Could the AI revolution also herald a revolution in HR?",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:00:40.266620",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:28.765361",
             "source": "Wired.com"
         },
         {
             "title": "Why AI Strategy Fails Without Data Discipline",
             "url": "https://www.wired.com/sponsored/story/flexera/",
             "description": "Paid Post | Becoming AI-first demands clean data, strong governance, and feedback loops—not just new tools or machine-learning pilots.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:00:43.208756",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:31.765128",
             "source": "Wired.com"
         },
         {
             "title": "Sports Brands and AI: A Winning Combination",
             "url": "https://www.wired.com/sponsored/story/sports-brands-and-ai-a-winning-combination/",
             "description": "Millions of sports fans are being brought ever closer to the live action from their home screens through the power of agentic and generative AI.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:00:46.254502",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:35.346083",
             "source": "Wired.com"
         },
         {
             "title": "The New AI Marketing Playbook",
             "url": "https://www.wired.com/sponsored/story/the-new-ai-marketing-playbook-tremendous/",
             "description": "Generative AI tools are redefining how customers shop, and agents promise to start making purchase decisions themselves. Here's how to stay ahead of potentially the biggest change to retail in decades…",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:00:49.384333",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:38.644834",
             "source": "Wired.com"
         },
         {
             "title": "How AI Assistants Are Transforming the Workforce",
             "url": "https://www.wired.com/sponsored/story/how-ai-assistants-are-transforming-the-workforce/",
             "description": "\"Suite Dreams\" are made of these efficient and autonomous robot colleagues.",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:00:52.399669",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:41.521690",
             "source": "Wired.com"
         },
         {
             "title": "The Geopolitics of AI",
             "url": "https://www.wired.com/sponsored/story/the-geopolitics-of-ai/",
             "description": "How the development—and adoption—of AI is reshaping our world and markets.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:00:55.329590",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:44.434200",
             "source": "Wired.com"
         },
         {
             "title": "How Small Businesses Are Actually Putting AI To Work",
             "url": "https://www.wired.com/sponsored/story/sponsored/story/small-businesses-ai-to-work-sage/",
             "description": "Three real-world use cases, explained by the founders who couldn’t live without them",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:00:58.654509",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:48.026767",
             "source": "Wired.com"
         },
         {
             "title": "I, Rulebot: How AI is turning compliance into software",
             "url": "https://www.wired.com/sponsored/story/future-of-compliance-policy-as-code-kyndryl/",
             "description": "Policies create work, but AI stands to lighten the load—and it may be the start of a bigger transformation. Enter policy-as-code.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:01.637371",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:51.242945",
             "source": "Wired.com"
         },
         {
             "title": "Will Your Next Developer be an AI Agent?",
             "url": "https://www.wired.com/sponsored/story/jetbrains/",
             "description": "Paid Post | From coders to team leaders: How AI agents are changing software development",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:04.635756",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:54.186013",
             "source": "Wired.com"
         },
         {
             "title": "How Agentic AI Is Reshaping the CFO Playbook",
             "url": "https://www.wired.com/sponsored/story/esker/",
             "description": "Paid Post | From assistive to autonomous: agentic AI is helping finance execute faster and smarter.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:08.014897",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:41:57.141373",
             "source": "Wired.com"
         },
         {
             "title": "AI and the Human Side of Health Innovation",
             "url": "https://www.wired.com/sponsored/story/ai-and-the-human-side-of-health-innovation/",
             "description": "At WIRED's Big Interview event, Eli Lilly and Company's Executive Vice President and Chief Information and Digital Officer, Diogo Rau, explored how AI is transforming the future of care.",
-            "author": "By BY DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:11.196929",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:00.048725",
             "source": "Wired.com"
         },
         {
             "title": "How AI Is Reinventing the Way Creative Teams Work",
             "url": "https://www.wired.com/sponsored/story/ai-is-reinventing-the-way-creative-teams-work-dropbox/",
             "description": "From knowledge management to synthetic focus groups, new tools are helping creatives move faster and think bigger",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:14.140098",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:03.364615",
             "source": "Wired.com"
         },
         {
             "title": "Agentic AI: What Businesses Need To Know",
             "url": "https://www.wired.com/sponsored/story/agentic-ai-businesses-thoughtworks/",
             "description": "Agentic AI is one of the hottest topics in tech. But what’s the reality of where things stand today, and how can businesses get involved and stay ahead?",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:17.042266",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:06.869153",
             "source": "Wired.com"
         },
         {
             "title": "How AI Is Helping Pet Owners Monitor Health Changes",
             "url": "https://www.wired.com/contributor-content/story/how-ai-is-helping-pet-owners-monitor-health-changes/",
             "description": "Exploring the role of AI tools in monitoring, prevention, and veterinary support.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:20.387848",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:09.768947",
             "source": "Wired.com"
         },
         {
             "title": "AI is booming - but the debates are just beginning",
             "url": "https://www.wired.com/sponsored/story/ai-is-booming-but-the-debates-are-just-beginning-ibm/",
             "description": "The generative AI era is increasingly defined by questions more than answers. We put four to IBM's UK and Ireland Chief Executive, Leon Butler",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:01:23.463842",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:12.743400",
             "source": "Wired.com"
         },
         {
             "title": "Three Milestones That Will Make AI Agents Ubiquitous",
             "url": "https://www.wired.com/sponsored/story/three-milestones-that-will-make-ai-agents-ubiquitous/",
             "description": "How building trust and democratizing access will turn AI agents into invisible helpers for everyone.",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:01:26.612245",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:15.688858",
             "source": "Wired.com"
         },
         {
             "title": "How AI Is Changing Performance Management",
             "url": "https://www.wired.com/sponsored/story/keyrus/",
             "description": "Paid Post | Prescriptive baselines and AI agents can help solve common problems, allowing leaders to apply human talent where it adds the most value.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:29.493549",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:19.309993",
             "source": "Wired.com"
         },
         {
             "title": "The 10x Challenge: How AI Factories Are Redefining Energy Infrastructure",
             "url": "https://www.wired.com/sponsored/story/the-10x-challenge-how-ai-factories-are-redefining-energy-infrastructure/",
             "description": "Why the future of AI depends on an innovative redesign of power, cooling, automation and grid integration.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:32.479601",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:22.525142",
             "source": "Wired.com"
         },
         {
             "title": "Why Customer Service Operations Are Turning to Modern AI Tools",
             "url": "https://www.wired.com/contributor-content/story/why-customer-service-operations-are-turning-to-modern-ai-tools/",
             "description": "Behind multichannel customer support, AI is helping teams manage global service issues.",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:01:35.613528",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:25.460541",
             "source": "Wired.com"
         },
         {
             "title": "AI is Making Our Volatile Planet More Predictable",
             "url": "https://www.wired.com/sponsored/story/ai-is-making-our-volatile-planet-more-predictable/",
             "description": "Unleashing IBM’s AI on NASA’s high-resolution data about our planet (and its sun) means we can better understand where we live.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:38.612949",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:28.477378",
             "source": "Wired.com"
         },
         {
             "title": "AI and Machine Learning for Personalization in Ecommerce",
             "url": "https://www.wired.com/contributor-content/story/ai-and-machine-learning-for-personalization-in-ecommerce/",
             "description": "Industry leader Vinod Sivagnanam has made an impact in product management by utilizing AI and machine learning.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:41.415958",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:31.345423",
             "source": "Wired.com"
         },
         {
             "title": "The Real Reason AI Isn’t Working for Your Company",
             "url": "https://www.wired.com/sponsored/story/the-real-reason-ai-isnt-working-for-your-company/",
             "description": "Businesses keep using AI tools to create cost-savings, but the true opportunity is not optimizing old workflows—it’s inventing entirely new ones.",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:01:44.407686",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:34.267322",
             "source": "Wired.com"
         },
         {
             "title": "Adobe Just Supercharged Generative AI for Creators",
             "url": "https://www.wired.com/sponsored/story/adobe-just-supercharged-generative-ai-for-creators/",
             "description": "With sweeping improvements to Firefly and its creative suite—including integrating third-party models, prompt-to-edit, new generative audio tools, and safer custom models for businesses—Adobe is betting on AI to transform entire creative fields.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:47.309739",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:37.157097",
             "source": "Wired.com"
         },
         {
             "title": "CES Is Loud. The Future of AI Will Be Quiet.",
             "url": "https://www.wired.com/sponsored/story/ces-is-loud-the-future-of-ai-will-be-quiet/",
             "description": "Often, the most impactful technologies aren’t the ones that bring shock or delight, but the ones that have become so integrated that they are nearly undetectable. They become quiet.",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:01:50.456263",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:40.053497",
             "source": "Wired.com"
         },
         {
             "title": "How Neuro-Symbolic AI Breaks the Limits of LLMs",
             "url": "https://www.wired.com/sponsored/story/how-neuro-symbolic-ai-breaks-the-limits-of-llms/",
             "description": "Combining neural learning with symbolic reasoning for more reliable AI.",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:01:54.842464",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:42.979842",
             "source": "Wired.com"
         },
         {
             "title": "With AI, the Real Challenge is Data",
             "url": "https://www.wired.com/sponsored/story/propylon/",
             "description": "Paid Post | From aerospace to pharmaceuticals, AI’s potential is starting to transform knowledge work—but without a structured single source of truth, the new era of digital experiences could be built on a house of cards.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:01:57.688453",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:46.096297",
             "source": "Wired.com"
         },
         {
             "title": "Opening the Office Door to AI",
             "url": "https://www.wired.com/sponsored/story/opening-the-office-door-to-ai/",
             "description": "Making AI in the workplace work for you isn’t as scary as it seems.",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:02:00.811617",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:49.052754",
             "source": "Wired.com"
         },
         {
             "title": "Training AI for Cancer Care Through Virtual Simulation",
             "url": "https://www.wired.com/sponsored/story/kaiko/",
             "description": "Paid Post | Kaiko.ai is developing AI systems for oncology specialists by creating digital replicas of clinical environments that mirror real workflows.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:03.724854",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:51.995258",
             "source": "Wired.com"
         },
         {
             "title": "How AI and Integration Could Reshape Security Operations",
             "url": "https://www.wired.com/sponsored/story/trackforce/",
             "description": "Paid Post | A new report highlights how security teams are adapting to rising labor pressures while integrated, AI-ready platforms aim to streamline staffing, response, and compliance.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:06.879028",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:55.328655",
             "source": "Wired.com"
         },
         {
             "title": "Unlocking the Last Mile in AI-Powered Applications",
             "url": "https://www.wired.com/sponsored/story/apryse/",
             "description": "Paid Post | AI can produce content almost instantly, but the real value happens when human expertise turns those raw outputs into decisions and deliverables.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:10.181697",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:42:58.246136",
             "source": "Wired.com"
         },
         {
             "title": "Could People-Pleasing AI Ruin Your Brand’s Customer Support Experience?",
             "url": "https://www.wired.com/sponsored/story/csg/",
             "description": "Paid Post | AI assistants are reshaping customer expectations, but over-agreeable bots risk eroding trust, accuracy, and outcomes when pleasant interactions come at the expense of real resolution.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:13.140736",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:01.238358",
             "source": "Wired.com"
         },
         {
             "title": "How to be an Enterprise AI Pioneer: Lessons from Visionary Leaders",
             "url": "https://www.wired.com/sponsored/story/conversations-with-pioneers-of-enterprise-ai-hcltech/",
             "description": "Everyone is talking about AI, but few have achieved enterprise-wide impact. WIRED has partnered with HCLTech to learn from those who are leading the way",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:02:17.390036",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:04.705133",
             "source": "Wired.com"
         },
         {
             "title": "AI is Set to Revolutionize Corporate HR",
             "url": "https://www.wired.com/sponsored/story/ai-is-set-to-revolutionise-corporate-hr/",
             "description": "IBM’s new generation of AI tools is already modernizing HR, making companies far more productive.",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:02:20.530019",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:07.764532",
             "source": "Wired.com"
         },
         {
             "title": "Could AI Become the Operating System of Global Trade?",
             "url": "https://www.wired.com/sponsored/story/kpler/",
             "description": "Paid Post | Inside Kpler’s bid to make commodity trading a conversation with a machine.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:23.419381",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:10.670849",
             "source": "Wired.com"
         },
         {
             "title": "How Biomechanical AI Could Change Strength Training for the Future",
             "url": "https://www.wired.com/contributor-content/story/how-biomechanical-ai-could-change-strength-training-for-the-future/",
             "description": "New AI tools are leading developments in form-checking technology.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:26.353981",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:13.562781",
             "source": "Wired.com"
         },
         {
             "title": "Why Design, Not Scale, Will Decide the Future of AI",
             "url": "https://www.wired.com/contributor-content/story/why-design-not-scale-will-decide-the-future-of-ai/",
             "description": "As AI grows larger, one designer says it’s losing what matters most: usability, trust, and empathy.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:29.616172",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:16.495693",
             "source": "Wired.com"
         },
         {
             "title": "How AI Digital Twins Are Reshaping the Future of Fan Interactions",
             "url": "https://www.wired.com/contributor-content/story/how-ai-digital-twins-are-reshaping-the-future-of-fan-interactions/",
             "description": "The entertainment industry is entering a phase where connection can be simulated and personalized by artists at a level that hasn’t been possible before.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:33.029090",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:19.354694",
             "source": "Wired.com"
         },
         {
             "title": "The Most Dangerous Myth in AI is that Autonomy Equals Intelligence",
             "url": "https://www.wired.com/sponsored/story/quantumsystems/",
             "description": "Paid Post | The push for full autonomy ignores how systems actually fail when data degrades, assumptions break, and human judgment disappears.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:36.781905",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:22.263146",
             "source": "Wired.com"
         },
         {
             "title": "How AI and Integration Could Reshape Security Operations",
             "url": "https://www.wired.com/sponsored/story/trackforce/",
             "description": "Paid Post | A new report highlights how security teams are adapting to rising labor pressures while integrated, AI-ready platforms aim to streamline staffing, response, and compliance.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:39.898440",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:25.135792",
             "source": "Wired.com"
         },
         {
             "title": "Connected Comfort: The Evolution of Home Climate Technology",
             "url": "https://www.wired.com/sponsored/story/comfort-connected-the-evolution-of-home-climate-technology/",
             "description": "Inside Trane’s Center of Home Comfort",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:43.164038",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:28.073639",
             "source": "Wired.com"
         },
         {
             "title": "AI Has Learned to Write. Space Aye Wants It to See",
             "url": "https://www.wired.com/contributor-content/story/ai-has-learned-to-write-space-aye-wants-it-to-see/",
             "description": "Inside Space Aye’s plan to build a living digital twin of Earth — and teach AI to perceive the planet in real time.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:46.783964",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:31.003378",
             "source": "Wired.com"
         },
         {
             "title": "Why Customer Service Operations Are Turning to Modern AI Tools",
             "url": "https://www.wired.com/contributor-content/story/why-customer-service-operations-are-turning-to-modern-ai-tools/",
             "description": "Behind multichannel customer support, AI is helping teams manage global service issues.",
-            "author": "By JORGE GARAY",
-            "scraped_at": "2026-04-21T13:02:49.969264",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:33.836627",
             "source": "Wired.com"
         },
         {
             "title": "How AI Is Reshaping Online Orders: Can It Really Deliver?",
             "url": "https://www.wired.com/contributor-content/story/how-ai-is-reshaping-online-orders-can-it-really-deliver/",
             "description": "What smarter logistics could mean for retailers and customers.",
-            "author": "By DAVID GILBERT",
-            "scraped_at": "2026-04-21T13:02:53.374308",
+            "author": "By Unknown",
+            "scraped_at": "2026-04-21T14:43:36.786959",
             "source": "Wired.com"
         }
     ]

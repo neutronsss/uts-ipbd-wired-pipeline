@@ -93,15 +93,13 @@ def scrape_wired_articles(url_list):
             except NoSuchElementException:
                 description = "No desc"
             
-            # ekstrak author dan memastikan ada kata "By"
-            author_text = "Unknown"
             try:
-                # mencoba beberapa selector umum untuk author di Wired
-                author_element = driver.find_element(By.CSS_SELECTOR, "a[rel='author'], .byline-component__link, .byline__name")
+                article_header = driver.find_element(By.TAG_NAME, "header")
+                
+                author_element = article_header.find_element(By.CSS_SELECTOR, ".byline__name, a[rel='author']")
                 author_text = author_element.text
             except NoSuchElementException:
-                # banyak konten sponsored Wired tak memiliki author tag spesifik, fallback ke default
-                pass
+                author_text = "Unknown"
 
             # formatting author agar selalu ada kata "By" di depannya
             if not author_text.startswith("By"):
